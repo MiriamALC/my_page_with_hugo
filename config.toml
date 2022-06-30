@@ -1,6 +1,6 @@
 # Your now.sh domain. You can leave it with http://localhost:1313/
 # For local purposes
-baseURL = "http://localhost:1313/"
+baseURL = "https://miriamalc.github.io/my_page_with_hugo/"
 languageCode = "es-ES"
 title = 'My New Hugo Site'
 theme = 'paper'
